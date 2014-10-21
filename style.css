@@ -1,3 +1,9 @@
 ﻿body{
 background: cyan;
 }
+
+h3{
+color: red;
+background: purple;
+padding: 1em;
+}
